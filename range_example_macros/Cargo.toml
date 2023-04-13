@@ -10,6 +10,5 @@ proc-macro = true
 
 [dependencies]
 syn = "2"
-proc-macro2 = "1"
 quote = "1"
 derive-syn-parse = "0.1.5"
